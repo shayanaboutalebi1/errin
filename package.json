@@ -1,0 +1,32 @@
+{
+  "name": "errin",
+  "version": "1.0.0",
+  "description": "errin — whistleblower hotline, teleprompter AI, and earnings compliance framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test-all.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "whistleblower",
+    "hotline",
+    "teleprompter",
+    "earnings",
+    "compliance",
+    "iV7"
+  ],
+  "author": "Shayan Aboutalebi",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shayanaboutalebi1/errin"
+  },
+  "bugs": {
+    "url": "https://github.com/shayanaboutalebi1/errin/issues"
+  },
+  "homepage": "https://github.com/shayanaboutalebi1/errin#readme"
+}
