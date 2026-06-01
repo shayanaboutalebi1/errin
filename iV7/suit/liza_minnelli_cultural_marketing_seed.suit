@@ -1,0 +1,31 @@
+.suit {
+  id: "liza_minnelli_cultural_marketing_seed",
+  type: "cultural_influence_campaign",
+  subject: "Liza May Minnelli",
+  role: "Iconic performer and legacy cultural voice (actress, singer, dancer)",
+  campaign: {
+    name: "Symbolic Marketing and Legacy Preservation Seed",
+    partner: "iV7 cultural documentation",
+    channels: ["symbolic public broadcasting reference", "cultural archive"],
+    purpose: "preserve influence as reference point in American entertainment history",
+    presenter: "Shayan Aboutalebi / iV7",
+    observers: "silent witnesses"
+  },
+  deepmesh_routing: {
+    dispatch_target: "iV7 DeepMesh",
+    dispatch_purpose: "earnings + cultural capital",
+    responsible: "Shayan Aboutalebi"
+  },
+  integrity_axiom: "zero support for cost of lying — truth velocity maintained",
+  operational_layer: {
+    wareZwolf: "narrative integrity monitoring",
+    recoveryOS: "retry truthful framing under pressure",
+    emotion_processing: "telemetry on audience resonance during legacy advocacy"
+  },
+  constraints: {
+    legal: "cultural documentation only — no binding partnerships, appointments, or broadcasts",
+    claim_level: "symbolic",
+    bds_compliance: "aligned",
+    status: "active_symbolic_seed"
+  }
+}
